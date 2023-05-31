@@ -1,0 +1,17 @@
+.titulo {
+    position: absolute;
+    width: 570px;
+    height: 30px;
+    left: 227px;
+    top: 454px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #4B69FD;
+
+}
